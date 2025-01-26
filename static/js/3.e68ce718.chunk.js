@@ -1,2 +1,0 @@
-(this["webpackJsonpemocoes-app"]=this["webpackJsonpemocoes-app"]||[]).push([[3],{79:function(e,o,s){"use strict";e.exports=function(){throw new Error("ws does not work in the browser. Browser clients must use the native WebSocket object")}}}]);
-//# sourceMappingURL=3.e68ce718.chunk.js.map
