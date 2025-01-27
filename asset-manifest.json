@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/emocoes/static/css/main.92910e29.chunk.css",
-    "main.js": "/emocoes/static/js/main.bce47058.chunk.js",
-    "main.js.map": "/emocoes/static/js/main.bce47058.chunk.js.map",
+    "main.js": "/emocoes/static/js/main.88659ed7.chunk.js",
+    "main.js.map": "/emocoes/static/js/main.88659ed7.chunk.js.map",
     "runtime-main.js": "/emocoes/static/js/runtime-main.df709879.js",
     "runtime-main.js.map": "/emocoes/static/js/runtime-main.df709879.js.map",
     "static/js/2.20c27aa1.chunk.js": "/emocoes/static/js/2.20c27aa1.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.df709879.js",
     "static/js/2.20c27aa1.chunk.js",
     "static/css/main.92910e29.chunk.css",
-    "static/js/main.bce47058.chunk.js"
+    "static/js/main.88659ed7.chunk.js"
   ]
 }
