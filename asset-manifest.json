@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/emocoes/static/css/main.92910e29.chunk.css",
-    "main.js": "/emocoes/static/js/main.c54c9c9b.chunk.js",
-    "main.js.map": "/emocoes/static/js/main.c54c9c9b.chunk.js.map",
+    "main.js": "/emocoes/static/js/main.bce47058.chunk.js",
+    "main.js.map": "/emocoes/static/js/main.bce47058.chunk.js.map",
     "runtime-main.js": "/emocoes/static/js/runtime-main.df709879.js",
     "runtime-main.js.map": "/emocoes/static/js/runtime-main.df709879.js.map",
-    "static/js/2.29662dd5.chunk.js": "/emocoes/static/js/2.29662dd5.chunk.js",
-    "static/js/2.29662dd5.chunk.js.map": "/emocoes/static/js/2.29662dd5.chunk.js.map",
+    "static/js/2.20c27aa1.chunk.js": "/emocoes/static/js/2.20c27aa1.chunk.js",
+    "static/js/2.20c27aa1.chunk.js.map": "/emocoes/static/js/2.20c27aa1.chunk.js.map",
     "static/js/3.f1e5bd2d.chunk.js": "/emocoes/static/js/3.f1e5bd2d.chunk.js",
     "static/js/3.f1e5bd2d.chunk.js.map": "/emocoes/static/js/3.f1e5bd2d.chunk.js.map",
     "static/js/4.1c2f3959.chunk.js": "/emocoes/static/js/4.1c2f3959.chunk.js",
     "static/js/4.1c2f3959.chunk.js.map": "/emocoes/static/js/4.1c2f3959.chunk.js.map",
     "index.html": "/emocoes/index.html",
     "static/css/main.92910e29.chunk.css.map": "/emocoes/static/css/main.92910e29.chunk.css.map",
-    "static/js/2.29662dd5.chunk.js.LICENSE.txt": "/emocoes/static/js/2.29662dd5.chunk.js.LICENSE.txt"
+    "static/js/2.20c27aa1.chunk.js.LICENSE.txt": "/emocoes/static/js/2.20c27aa1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.df709879.js",
-    "static/js/2.29662dd5.chunk.js",
+    "static/js/2.20c27aa1.chunk.js",
     "static/css/main.92910e29.chunk.css",
-    "static/js/main.c54c9c9b.chunk.js"
+    "static/js/main.bce47058.chunk.js"
   ]
 }
